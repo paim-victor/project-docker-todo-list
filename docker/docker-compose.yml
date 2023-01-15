@@ -18,7 +18,7 @@ services:
     image: todotests
     restart: always
     depends_on:
-    - todoback
     - todofront
+    - todoback
     environment:
-      - FRONT_HOST=todofrontg
+      - FRONT_HOST=todofront
