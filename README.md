@@ -5,15 +5,15 @@ Primeiro projeto do modulo de back-end, na trybe. Projeto visa o apredizado da t
 ## 📋 Habilidades
 
 - Conhecimento dos comandos dockers no CLI - Interface de linha de comando;
-- Criar um contêiner Docker para uma aplicação de front-end;
-- Criar um contêiner Docker para uma aplicação de back-end;
-- Criar um contêiner Docker para uma aplicação de testes;
-- Orquestrar os três contêineres utilizando o Docker compose.
+- Criação de um contêiner Docker para uma aplicação de front-end;
+- Criação de um contêiner Docker para uma aplicação de back-end;
+- Criação de contêiner Docker para uma aplicação de testes;
+- Orquestração de três contêineres utilizando o Docker compose.
 
 ### 🚀 Tecnologias
 
-- docker
-- bash
+- DOCKER
+- BASH
 
 ### 🔧 Instalação
 
